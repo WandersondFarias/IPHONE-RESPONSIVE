@@ -3,8 +3,8 @@
 </h1>
 
 <div align="center">
-    <img src="https://img.shields.io/github/repo-size/kennedybarros/iphone-responsive-landing-page?color=fff" />
-    <img src="https://img.shields.io/github/license/kennedybarros/iphone-responsive-landing-page?color=fff"/>
+    <img src="https://img.https://github.com/wandersondefariasprogramador/iphone-responsive-landing-page?color=fff" />
+    <img src="https://img.https://github.com/wandersondefariasprogramador/iphone-responsive-landing-page?color=fff"/>
 </div>
 
 <h1 align="center">
@@ -33,7 +33,7 @@
 
 ```bash
 # Clone the repository
-$ git clone git@github.com:kennedybarros/iphone-responsive-landing-page.git
+$ git clone https://github.com/wandersondefariasprogramador/iphone-responsive-landing-page.git
 
 # Enter directory
 $ cd iphone-responsive-landing-page
@@ -47,4 +47,4 @@ This project is under license. see the file [LICENSE](LICENSE.md) for more detai
 ---
 
 
-<p align="center"> Developed by <a href="https://www.linkedin.com/in/kennedybarros/">Kennedy Barros</a> ✌🏼</p>
+<p align="center"> Developed by <a href="https://www.linkedin.com/in/wanderson-farias-ba9a90215/">wanderson de farias</a> ✌🏼</p>
